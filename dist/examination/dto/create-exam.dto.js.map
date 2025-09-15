@@ -1,0 +1,1 @@
+{"version":3,"file":"create-exam.dto.js","sourceRoot":"","sources":["../../../src/examination/dto/create-exam.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AACA,qDAAkE;AAElE,MAAa,aAAa;IACI,IAAI,CAAS;IACb,KAAK,CAAS;CAC3C;AAHD,sCAGC;AAF6B;IAAzB,IAAA,0BAAQ,GAAE;IAAE,IAAA,2BAAS,EAAC,CAAC,CAAC;;2CAAc;AACb;IAAzB,IAAA,0BAAQ,GAAE;IAAE,IAAA,2BAAS,EAAC,CAAC,CAAC;;4CAAe"}
